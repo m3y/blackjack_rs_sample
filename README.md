@@ -1,1 +1,1 @@
-# blackjack
+# blackjack_rs_sample
